@@ -1,0 +1,36 @@
+.box {
+  width: 100px;
+  height: 200px;
+}
+.thumbnail {
+  width: 100%;
+  height: 100px;
+  background-color: orchid;
+}
+.detail {
+  display: flex;
+  width: 100%;
+  height: 100px;
+}
+.logo {
+  /* flex-basis: 25%; */
+  width: 25px;
+  background-color: darkslategrey;
+  height: 100%;
+}
+.logo a {
+  width: 100%;
+  height: 100px;
+  display: block;
+}
+.logo a img {
+  width: 100%;
+  height: 100%;
+  background-color: springgreen;
+}
+.data {
+  /* flex-basis: 75%; */
+  width: 75px;
+  background-color: navajowhite;
+  height: 100%;
+}

@@ -1,0 +1,71 @@
+.vid-box {
+  width: 100%;
+  height: 115px;
+  margin: 0 5px 10px 0;
+  padding: 0 5px;
+  /* background-color: gray; */
+  display: flex;
+}
+.vid-box a {
+  flex-basis: 40%;
+  display: block;
+}
+.vid-thumbnail {
+  /* flex-basis: 40%; */
+  padding-right: 5px;
+}
+.vid-thumbnail img {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+.vid-box .vid-data {
+  flex-basis: 60%;
+  /* overflow: none; */
+}
+.vid-box .vid-data .right-vid-title {
+  width: 100%;
+  margin-bottom: 10px;
+}
+.vid-box .vid-data .right-vid-title p {
+  width: 100%;
+  font-size: 13px;
+  font-weight: 600;
+  overflow: none;
+  /* background-color: seagreen; */
+  text-wrap: wrap;
+}
+.vid-box .vid-data .right-channel-name {
+  width: 100%;
+}
+.vid-box .vid-data .right-channel-name span {
+  font-size: 12px;
+}
+.vid-box .vid-data .vid-view-data {
+  width: 100%;
+  /* text-align: centers; */
+  display: flex;
+}
+.vid-box .vid-data .vid-view-data span {
+  font-size: 11px;
+  /* margin-right: 10px; */
+  /* background-color: gold; */
+}
+.vid-box .vid-data .vid-view-data .dot {
+  width: 20px;
+  height: 30px;
+  /* background-color: #4a06a8; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.vid-box .vid-data .vid-view-data .dot span {
+  font-size: 30px;
+  /* line-height: 70px; */
+  position: relative;
+  top: -15px;
+  font-weight: 900;
+
+  /* align-items: center; */
+  /* overflow: hidden; */
+}

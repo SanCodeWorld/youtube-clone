@@ -1,0 +1,32 @@
+.left-sidebar {
+  width: 6%; /*calc(100vw - 94%);*/
+  height: calc(100% - 70px);
+  background-color: rgb(255, 255, 255);
+  position: fixed;
+  top: 70px;
+}
+.left-sidebar-ul {
+  height: 100%;
+  width: 100%;
+  padding-top: 10px;
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 35px;
+}
+.left-sidebar-ul li {
+  height: 10%;
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.left-sidebar-ul li img {
+  width: 30px;
+  height: 30px;
+}

@@ -1,0 +1,92 @@
+/* .vid-list-page {
+  width: 94%;
+  position: relative;
+  top: 110px;
+  left: 6%;
+  z-index: -1;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-content: space-evenly;
+  row-gap: 10px;
+} 
+.vid-container {
+  position: relative;
+  width: 310px;
+  height: 300px;
+  background-color: hotpink;
+  position: relative;
+  top: 110px;
+  left: 7%;
+}
+
+.vid-container > a {
+  position: absolute;
+  width: 100%;
+  height: 200px;
+}
+
+.vid-thumbnail {
+  width: 100%;
+  height: 200px;
+  border-radius: 10px;
+  background-color: grey;
+}
+.vid-details {
+  width: 100%;
+  height: 100px;
+  background-color: turquoise;
+  display: flex;
+  position: absolute;
+  top: 200px;
+}
+.vid-details a {
+  position: absolute;
+  flex-basis: 20%;
+  height: 100%;
+}*/
+/* .chn-logo {
+  width: 100%;
+  height: 100%;
+  background-color: lightcoral;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+/* .chn-logo div {
+  width: 80%;
+  height: 80%;
+  border-radius: 50%;
+  background-color: violet;
+} */
+/* .chn-details {
+  flex-basis: 80%;
+  height: 100%;
+  background-color: saddlebrown;
+} */
+/* .view-details span {
+  width: 100%;
+  height: 100%;
+  margin-right: 5px;
+  background-color: #18bf6e;
+  font-size: 8px;
+  font-weight: 500;
+  color: rgb(71, 69, 69);
+  font-weight: 100;
+  font-style: normal;
+  color: rgb(243, 14, 14);
+} */
+
+/* .vid-container a {
+  position: inherit;
+  width: 100%;
+  height: 200px;
+  display: block;
+  background-color: black;
+} */
+/*
+.poppins-thin {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  color: rgb(13, 237, 43);
+} */

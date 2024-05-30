@@ -1,0 +1,24 @@
+.suggestions-bar {
+  position: fixed;
+  top: 70px;
+  left: 6%;
+  background-color: rgb(255, 255, 255);
+  width: 94%;
+  height: 40px;
+  z-index: 2;
+}
+.suggestions-ul {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  /* flex-wrap: wrap; */
+  /* background-color: blueviolet; */
+  list-style-type: none;
+  justify-content: space-around;
+  align-items: center;
+}
+.suggestions-ul li {
+  padding: 5px 10px;
+  background-color: rgba(217, 203, 203, 0.755);
+  border-radius: 5px;
+}
